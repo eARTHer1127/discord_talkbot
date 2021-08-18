@@ -23,6 +23,7 @@ discord.py        1.7.2
 
 # インストールと実行
 ```
+$ pip install discord gTTS
 $ git clone https://github.com/eARTHer1127/discord_talkbot.git
 $ cd discord_talkbot
 $ python3 discord_play.py
