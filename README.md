@@ -20,3 +20,10 @@ gTTS              2.2.2
 $ pip3 list show | grep discord
 discord.py        1.7.2
 ```
+
+# インストールと実行
+```
+$ git clone https://github.com/eARTHer1127/discord_talkbot.git
+$ cd discord_talkbot
+$ python3 discord_play.py
+```
